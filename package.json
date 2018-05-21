@@ -11,6 +11,8 @@
     "tram-one"
   ],
   "dependencies": {
+    "chalk": "temporary fix for https://github.com/webpack-contrib/config-loader/issues/8",
+    "chalk": "^2.4.1",
     "jasmine": "^2.8.0",
     "tram-one": "^6.1.0",
     "webpack": "^4.8.3",
